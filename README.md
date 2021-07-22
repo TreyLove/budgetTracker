@@ -11,7 +11,7 @@ Heroku and MongoAtlas deployed app that uses mongodb and mongoose. Allows users 
 - Click the add funds or subtracts funds depending on whether you are spending money or earning money
 
 ## Important Links
-![deployed application](https://polar-beyond-17212.herokuapp.com/)
+[deployed application](https://polar-beyond-17212.herokuapp.com/)
 https://polar-beyond-17212.herokuapp.com/
 
 ## Images
